@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-sidebar-v1/static/css/main.97f23730.css",
+    "main.js": "/react-sidebar-v1/static/js/main.f549a908.js",
+    "index.html": "/react-sidebar-v1/index.html",
+    "main.97f23730.css.map": "/react-sidebar-v1/static/css/main.97f23730.css.map",
+    "main.f549a908.js.map": "/react-sidebar-v1/static/js/main.f549a908.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f23730.css",
+    "static/js/main.f549a908.js"
+  ]
+}
